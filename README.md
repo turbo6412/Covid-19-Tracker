@@ -2,7 +2,7 @@
 
 # WEBSITE: https://vuong-covid-track.netlify.app/
 
-# This application displays graphs and data of all the most recent COVID-19 cases. 
+# Created a React web application that displays graphs and data of all the most recent COVID-19 cases. 
 
 ![COVID 19 SCREENSHOT](https://user-images.githubusercontent.com/46942833/96385066-4b154480-1146-11eb-8be2-3e8bb24c4765.PNG)
 
